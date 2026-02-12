@@ -2,7 +2,10 @@
 
 ## 🌐 Live Demo
 
-👉 **[Clique aqui para testar a aplicação](https://huggingface.co/spaces/DiggoMarino/legendiAI)**
+👉 **[Clique aqui para testar a aplicação](https://huggingface.co/spaces/DiggoMarino/legendiAI)** 
+![Demo do LegendiAI](LegendiAI.gif)
+
+
 
 
 O **LegendiAI** é uma plataforma capaz de gerar legendas automaticamente para vídeos utilizando Inteligência Artificial, transformando áudio em texto sincronizado de forma rápida e acessível.
@@ -87,3 +90,4 @@ Este projeto permitiu aprofundar conhecimentos em:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Diego Marino**
+
