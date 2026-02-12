@@ -1,9 +1,10 @@
 # 🚀 LegendiAI — Plataforma de Geração Automática de Legendas com IA
+![Demo do LegendiAI](LegendiAI.gif)
 
 ## 🌐 Live Demo
 
 👉 **[Clique aqui para testar a aplicação](https://huggingface.co/spaces/DiggoMarino/legendiAI)** 
-![Demo do LegendiAI](LegendiAI.gif)
+
 
 
 
@@ -90,4 +91,5 @@ Este projeto permitiu aprofundar conhecimentos em:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Diego Marino**
+
 
