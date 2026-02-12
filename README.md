@@ -6,6 +6,18 @@
 👉 **[Clique aqui para testar a aplicação](https://huggingface.co/spaces/DiggoMarino/legendiAI)** 
 
 
+## 💡 Problema
+
+Criar legendas manualmente é demorado e dificulta a acessibilidade de conteúdos em vídeo.
+
+## 🚀 Solução
+
+O LegendiAI utiliza Inteligência Artificial para:
+
+- Transcrever automaticamente o áudio
+- Gerar legendas sincronizadas
+- Inserir as legendas no vídeo
+- Entregar o arquivo pronto para download
 
 
 
@@ -91,5 +103,6 @@ Este projeto permitiu aprofundar conhecimentos em:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Diego Marino**
+
 
 
