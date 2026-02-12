@@ -1,5 +1,16 @@
-# 🚀 LegendiAI — Plataforma de Geração Automática de Legendas com IA
+<p align="center">
+  <img src="banner-legendiAI.png" alt="LegendiAI Banner" width="850"/>
+</p>
+
+# LegendiAI
+### Automatic Subtitle Generation with AI
+AI-powered platform for automatic video transcription, subtitle synchronization, and rendering.
 ![Demo do LegendiAI](LegendiAI.gif)
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Whisper](https://img.shields.io/badge/AI-Whisper-green) ![FFmpeg](https://img.shields.io/badge/Media-FFmpeg-orange) ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red) ![Deploy](https://img.shields.io/badge/Deploy-HuggingFace-yellow)
+
 
 ## 🌐 Live Demo
 
@@ -103,6 +114,7 @@ Este projeto permitiu aprofundar conhecimentos em:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Diego Marino**
+
 
 
 
